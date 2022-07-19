@@ -62,10 +62,8 @@ $cash=$add-$sub;
 
 
 $time2=time()+9*60*60;
-$usr=$_SESSION['usr'];
-           
-			
-		$td=date('j-m-Y',time());
+$usr=$_SESSION['usr'];	
+$td=date('j-m-Y',time());
 
 if (isset($_POST['login']))
 {

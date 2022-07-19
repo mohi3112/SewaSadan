@@ -126,7 +126,7 @@ if($fn=="lcheck.php")
                         
                         <div class="body">
                             <center><h5>Welcome To Shri Ram Sharnam Sewa Sadan.</h5></center>
-                            <marquee ><p style="color:#2a5f2a;font-weight:bold;">New Renew Functionality is Live Now. Please Use That For Renew an Account.</p></marquee><br>
+                           <!-- <marquee ><p style="color:#2a5f2a;font-weight:bold;">New Renew Functionality is Live Now. Please Use That For Renew an Account.</p></marquee><br> -->
                             <table align="center" width="60%" >
 	                <tr><td>Date: <?php echo date('d/m/Y',time()); ?> </td><td>Time: <?php echo date('h:i a',time());?></td></tr>
 					<tr><td colspan=2><h3>Counters</h3></td></tr>
